@@ -50,6 +50,6 @@ yarn install
 yarn dev
 ```
 
-<h2 id="colab">🚀 API</h2>
+<h2 id="api">🚀 API</h2>
 
 O código-fonte da API Restful deste projeto está localizado em um repositório separado. Você pode encontrá-lo  [aqui](https://github.com/AntonioMortari/api-hero-hairdresses).
